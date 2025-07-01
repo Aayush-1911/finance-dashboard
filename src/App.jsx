@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "@/components/navbar";
 import Dashboard from "@/pages/dashboard";
 import Transactions from "@/pages/transactions";
-import AddTransaction from "@/pages/addTransaction";
+import AddTransaction from "@/pages/addtransaction";
 
 function App() {
   return (
