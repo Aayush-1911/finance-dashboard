@@ -1,6 +1,6 @@
 // src/App.jsx
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Navbar from "@/components/Navbar";
+import Navbar from "@/components/navbar";
 import Dashboard from "@/pages/dashboard";
 import Transactions from "@/pages/transactions";
 import AddTransaction from "@/pages/addTransaction";
